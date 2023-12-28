@@ -1,0 +1,43 @@
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.exe
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.deps.json
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.pdb
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\refint\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.pdb
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\AutomaticProperty\obj\Debug\net8.0\ref\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.exe
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.deps.json
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\bin\Debug\net8.0\AutomaticProperty.pdb
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\refint\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.pdb
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\ref\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\AutomaticProperty\obj\Debug\net8.0\AutomaticProperty.sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\bin\Debug\net8.0\AutomaticProperty.exe
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\bin\Debug\net8.0\AutomaticProperty.deps.json
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\bin\Debug\net8.0\AutomaticProperty.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\bin\Debug\net8.0\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\bin\Debug\net8.0\AutomaticProperty.pdb
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\refint\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.pdb
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\ref\AutomaticProperty.dll
