@@ -41,3 +41,4 @@ C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\refint\A
 C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.pdb
 C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\ref\AutomaticProperty.dll
+C:\Users\Dell\OneDrive\Desktop\prina\Fifth Semester\C#\obj\Debug\net8.0\AutomaticProperty.sourcelink.json
