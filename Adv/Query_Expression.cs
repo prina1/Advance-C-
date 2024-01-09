@@ -37,6 +37,14 @@ class Program
         //retrieve the average grade of all students 
         var averageGrade = students.Average(s=>s.Grade);
 
+        //retrive the student with the average grade of all students 
+        //retrieve the student with the lowest grade
+        var studentWithLowestGrade = students.OrderBy(s => s.Grade).FirstOrDefault();
+
+// later in your code...
+
+
+
         //retrieve the student with the highest grade
         var highestGrade = students.OrderByDescending(s => s.Grade).FirstOrDefault();
 
@@ -51,6 +59,16 @@ class Program
         {
             Console.WriteLine(student.Name);
         }
+        Console.WriteLine("students with marks in decending order ");
+        foreach (var student in students.OrderByDescending(s=>s.Grade))
+        {
+            Console.WriteLine(student.Name);
+        }
+        Console.WriteLine("\n studentrs with marks in accending order ");
+        foreach (var student in students.OrderBy(s=>s.Grade))
+        {
+            Console.WriteLine(student.Name);
+        }
         Console.WriteLine("students whose name starts with A ");
         foreach (var student in studentsStartsWithA)
         {
@@ -60,5 +78,48 @@ class Program
         Console.WriteLine(averageGrade);
         Console.WriteLine("student with the highest grade ");
         Console.WriteLine(highestGrade.Name);
+        Console.WriteLine("student with the lowest grade ");
+        Console.WriteLine(studentWithLowestGrade.Name);
+      
+
+      //filtering
+        var adults = students.Where(s=>s.Age>20);
+          //sorting 
+        var orderedByName = students.OrderBy(s=>s.Name);
+
+        //grouping 
+        var groupedByAge = students.GroupBy(s=>s.Age);
+
+        //joining
+        var joinedLists = students.Join(students, s => s.Name, s2 => s2.Name, (s,s2) => new {Student1 = s, Student2 = s2});
+
+        //projection
+        var names = students.Select(s=>s.Name);
+
+        //aggregation
+        //var averageGrade = students.Average(s=>s.Grade);
+
+        //quantifiers 
+        var araAnyAdults = students.Any(s => s.Age >= 20);
+        var areAllAdults = students.All(s => s.Age >= 20);
+
+        //partitioning
+        var first3Students = students.Take(3);
+        var allButFirst3Students = students.Skip(3);
+
+        //set operations
+        var distinctAges = students.Select(s=> s.Age).Distinct();
+
+        //conversion 
+        var array = students.ToArray();
+        var list = students.ToList();
+        var dictionary = students.ToDictionary(s=>s.Name, s=>s.Grade);
+
+        //element operations 
+        var firstStudent = students.First();
+        var lastStudent = students.Last();
+        var singleStudent = students.Single(s=>s.Name == "Ahmed");
+
+
     }
 }
